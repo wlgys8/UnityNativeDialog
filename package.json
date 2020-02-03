@@ -1,0 +1,10 @@
+{
+    "name": "com.ms.nativedialog",
+    "displayName": "Native Dialog",
+    "version": "0.0.1",
+    "description": "Native Dialog for Unity. Support Android&iOS",
+    "keywords": [
+      "dialog","native"
+    ]
+  }
+  
