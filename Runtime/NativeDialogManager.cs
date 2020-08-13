@@ -113,7 +113,7 @@ namespace MS.NativeDialog
                     neutralButtonTitle = options.neutralLabel,
                     onPositiveClick = options.onPositive,
                     onNegativeClick = options.onNegative,
-                    onNeutralClick = options.onNegative,
+                    onNeutralClick = options.onNeutral,
                 });
             #endif
         }
